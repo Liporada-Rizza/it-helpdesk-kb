@@ -55,7 +55,7 @@ Articles are stored as data in `articles.js`, so new articles can be added witho
 ## 📸 Screenshots
 | Home | Article |
 |---|---|
-| ![Home]([kb-home.png](https://github.com/Liporada-Rizza/it-helpdesk-kb/blob/main/Screenshot%202026-10-14%20223742.png)) | ![Article](https://github.com/Liporada-Rizza/it-helpdesk-kb/blob/main/Screenshot%202026-10-14%20223840.png) |
+| ![Home](https://github.com/Liporada-Rizza/it-helpdesk-kb/blob/main/Screenshot%202026-10-14%20223742.png) | ![Article](https://github.com/Liporada-Rizza/it-helpdesk-kb/blob/main/Screenshot%202026-10-14%20223840.png) |
 
 ## 🚀 Future Improvements
 - Add more articles (Bluetooth, sound, storage, software installation)
