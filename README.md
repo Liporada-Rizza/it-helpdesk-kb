@@ -4,7 +4,7 @@
 
 A self-help website with step-by-step fixes for common computer, network, printer, account, and security problems. Each article follows a standard troubleshooting format used by IT help desks.
 
-🌐 **Live Demo:** PASTE-YOUR-LINK-HERE
+🌐 **Live Demo:** https://liporada-rizza.github.io/it-helpdesk-kb/
 
 ## 🎯 Purpose
 Help desks receive the same problems again and again. A knowledge base lets users fix simple issues themselves and helps technicians follow a consistent process. This project shows my IT Support skills for my target role: **Help Desk Technician**.
